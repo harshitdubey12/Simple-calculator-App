@@ -23,7 +23,7 @@ function App(){
   }
 
   return (
-    <div style={{ maxWidth: "400px", margin: "auto", textAlign: "center", margin:"auto"}}>
+    <div style={{ maxWidth: "400px", margin: "auto", textAlign: "center"}}>
       <h1>Simple Calculator App</h1>
       <p>------------------------------------------------------</p>
       <input 
